@@ -1,0 +1,2 @@
+# mscorefonts
+Microsoft core fonts.
