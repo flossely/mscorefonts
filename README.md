@@ -1,2 +1,2 @@
-# Microsoft Fonts
-Microsoft core fonts.
+# microsoft-fonts
+Microsoft fonts.
